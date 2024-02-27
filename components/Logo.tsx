@@ -7,7 +7,7 @@ function Logo() {
 			href={"/"}
 			className="font-bold text-3xl bg-gradient-to-br from-pink-500 via-red-500 to-yellow-500  text-transparent bg-clip-text "
 		>
-			FlowForm
+			FormFlow
 		</Link>
 	);
 }
